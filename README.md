@@ -12,3 +12,7 @@ Path traversal is also known as directory traversal. These vulnerabilities enabl
     
 On Windows, both ../ and ..\ are valid directory traversal sequences. The following is an example of an equivalent attack against a Windows-based server:
 https://insecure-website.com/loadImage?filename=..\..\..\windows\win.ini
+
+
+Lab: File path traversal, simple case 
+ solution : use ../ for traversal  
