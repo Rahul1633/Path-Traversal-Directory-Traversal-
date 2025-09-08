@@ -1,4 +1,4 @@
-# Path-Traversal-Directory-Traversal-
+# Path-Traversal-Directory-Traversal
 This section documents my learning and practice of Path Traversal vulnerabilities from PortSwigger Web Security Academy.
 
 
